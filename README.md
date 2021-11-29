@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Idrees Malik</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://drake343.github.io/portfolio/">Idrees Malik</a></h1>
 <h3 align="center">Android Developer</h3>
 
 - 🔭 I’m currently working on **Notes Taking App**
