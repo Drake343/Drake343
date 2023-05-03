@@ -21,12 +21,7 @@
 
 
 
-### Idrees Malik Github Stats
 ## Current GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=Drake343&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drake343&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drake343&show_icons=true&locale=en&layout=compact&theme=dark" alt="drake343" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drake343&show_icons=true&locale=en&theme=dark" alt="drake343" /></p>
