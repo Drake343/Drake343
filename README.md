@@ -43,9 +43,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Cloud/Hosting
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+#### Package Manager
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -54,5 +59,7 @@
 ## Current GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=Drake343&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drake343&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+
+
 
 
